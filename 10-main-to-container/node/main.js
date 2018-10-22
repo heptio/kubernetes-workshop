@@ -1,1 +1,1 @@
-console.log('hello world');
+setTimeout(() => console.log('hello world'), 2000, 'hello');
