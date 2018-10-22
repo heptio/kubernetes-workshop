@@ -1,0 +1,11 @@
+REGISTRY ?= krisnova
+IMAGE ?= kubernetes-workshop-app
+TAG ?= latest
+
+all: container
+
+container: ## Build the docker container
+	docker build -t $(REGISTRY)/$(IMAGE):$(TAG) .
+
+push: ## Push the docker container
+	docker push $(REGISTRY)/$(IMAGE):$(TAG)
