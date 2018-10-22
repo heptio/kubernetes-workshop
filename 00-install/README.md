@@ -21,5 +21,6 @@ Using [minikube](https://kubernetes.io/docs/setup/minikube/)
     - Note: There will be differences with `LoadBalancer` configuration
 
 
-
+Using [RKE] (https://github.com/rancher/rke)
+    -Note: Yet another Opensource Kubernetes installer
 
