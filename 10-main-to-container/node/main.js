@@ -1,1 +1,1 @@
-setTimeout(() => console.log('Rock climbing is the best sport in the world!'), 2000, 'hello');
+setTimeout(() => console.log('Trail running is the best sport in the world!'), 2000, 'hello');
