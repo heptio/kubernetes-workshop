@@ -13,7 +13,7 @@ namespace dotnet
             {
                 Thread.Sleep(1000000);
             }
-            catch (ThreadInterruptedException ex)
+            catch (ThreadInterruptedException)
             {
                 Thread.CurrentThread.Interrupt();
             }
