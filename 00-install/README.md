@@ -10,7 +10,7 @@ Using the [official quickstart](https://cloud.google.com/kubernetes-engine/docs/
 
 Using [kubicorn](http://kubicorn.io/documentation/aws-walkthrough.html)
 
-    - Note: There is a none bug with PVs and PVCs
+    - Note: There is a known  bug with PVs and PVCs
 
 Using the [Heptio Quickstart](https://aws.amazon.com/quickstart/architecture/heptio-kubernetes/)
 
