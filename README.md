@@ -11,3 +11,7 @@ Link to [slides](https://docs.google.com/presentation/d/1-RUWXTWfQ6ixYIjQd4sZQrv
 # Heptio Quickstart
 
 https://aws.amazon.com/quickstart/architecture/heptio-kubernetes/
+
+# Minikube Installation
+
+https://kubernetes.io/docs/tasks/tools/install-minikube/
